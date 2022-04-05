@@ -1548,7 +1548,7 @@ a {
   object-fit: cover;
 }
 .cid-sOpyYVqHGq .mbr-text {
-  color: #818181;
+  color: #000000;
 }
 .cid-sMk4HpTUYO {
   padding-top: 60px;
@@ -1591,7 +1591,7 @@ a {
   border: 1px solid #190e48;
   border-radius: 40px;
   margin-bottom: 2rem;
-  color: #190e48;
+  color: #e2090d;
 }
 .cid-t1ZnhQxHmJ .item-icon {
   font-size: 1rem;
@@ -1730,7 +1730,7 @@ a {
 }
 .cid-s1YMdWQfw7 {
   padding-top: 105px;
-  padding-bottom: 105px;
+  padding-bottom: 45px;
   background-color: #190e48;
 }
 .cid-s1YMdWQfw7 .mbr-overlay {
@@ -1824,4 +1824,18 @@ a {
 .cid-s1YMdWQfw7 .item-text,
 .cid-s1YMdWQfw7 .item-icon {
   color: #999999;
+}
+.cid-t26deTdGBL {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #190e48;
+}
+.cid-t26deTdGBL .mbr-text1 {
+  color: #999999;
+}
+.cid-t26deTdGBL .mbr-text2 {
+  color: #999999;
+}
+.cid-t26deTdGBL p {
+  margin: 0;
 }
